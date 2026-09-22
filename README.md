@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Matheus 👋</h1> <p align="center"> Desenvolvedor focado em Python, dados e soluções em nuvem. </p> <p align="center"> <a href="https://github.com/matheus0967"> <img src="https://komarev.com/ghpvc/?username=matheus0967&label=Visualiza%C3%A7%C3%B5es&color=blueviolet&style=flat" alt="visitor badge"/> </a> </p>
+<h1 align="center">Olá, eu sou o Matheus </h1> <p align="center"> Desenvolvedor focado em Python, dados e soluções em nuvem. </p> <p align="center"> <a href="https://github.com/matheus0967"> <img src="https://komarev.com/ghpvc/?username=matheus0967&label=Visualiza%C3%A7%C3%B5es&color=blueviolet&style=flat" alt="visitor badge"/> </a> </p>
 🚀 Sobre mim
 🔭 Atualmente trabalhando no meu Portfólio
 🌱 Estudando desenvolvimento com foco em Python e Cloud
