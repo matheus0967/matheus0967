@@ -1,42 +1,33 @@
 <div align="center">
 
-# Matheus Garcia
+# MATHEUS GARCIA
+`SYSTEMS DEVELOPMENT · EDUCATIONAL ROBOTICS · AI AUTOMATION`
 
-**Systems Development Student · Robotics & Intelligent Automation**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=3&section=header" width="100%" alt="" />
 
 </div>
 
-## About
+## / PROFILE
 
-I am a third-year high school student and Technical Development Systems student at ETEC. My path in technology began with educational robotics, working with Arduino, sensors, and line-following robots. I am building a solid foundation through practical projects, with interests in intelligent agents, AI automation, and intelligent solutions.
+Third-year high school student studying Technical Development of Systems at ETEC. My journey in technology began with educational robotics, where I worked with Arduino, sensors, and line-following robots. I’m building a solid foundation through practical projects, with interests in intelligent agents, AI automation, and intelligent solutions.
 
-## Tech Stack
+## / STACK
 
-**Languages**
+`C`　`PYTHON`　`SQL`  
+`ARDUINO`　`MICRO:BIT`　`SENSORS`　`LINE-FOLLOWING ROBOTS`  
+`GIT`　`GITHUB`
 
-![C](https://img.shields.io/badge/C-161616?style=flat-square&logo=c&logoColor=FFFFFF )
-![Python](https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=FFFFFF )
-![SQL](https://img.shields.io/badge/SQL-161616?style=flat-square&logoColor=FFFFFF )
+## / GITHUB ACTIVITY
 
-**Robotics**
+<div align="center">
 
-![Arduino](https://img.shields.io/badge/Arduino-161616?style=flat-square&logo=arduino&logoColor=FFFFFF )
-![micro:bit](https://img.shields.io/badge/micro%3Abit-161616?style=flat-square&logoColor=FFFFFF )
-![Sensors](https://img.shields.io/badge/Sensors-161616?style=flat-square&logoColor=FFFFFF )
-![Line-following robots](https://img.shields.io/badge/Line--following_robots-161616?style=flat-square&logoColor=FFFFFF )
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&bg_color=050505&color=E6E6E6&line=FFFFFF&point=FFFFFF&area_color=333333&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" width="100%" alt="Contribution activity graph" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=dark&title_color=FFFFFF&text_color=BDBDBD&icon_color=FFFFFF&bg_color=050505" width="49%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&hide_border=true&langs_count=6&theme=dark&title_color=FFFFFF&text_color=BDBDBD&bg_color=050505" width="49%" alt="Most used languages" />
 
+</div>
 
-Interests
+## / ROBOTICS
 
-Intelligent agents · AI automation · Intelligent solutions
-
-
-
-
-
-## Robotics
-
-I worked with the T.E.R.A. Robotics educational robotics team, using Arduino, sensors, and line-following robots. I also participated in robotics events and public demonstrations.
+Member of the T.E.R.A. Robotics educational robotics team. Hands-on experience with Arduino, sensors, and line-following robots, including participation in robotics events and public demonstrations.
