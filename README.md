@@ -1,33 +1,53 @@
-<div align="center">
+# Matheus Garcia
 
-# MATHEUS GARCIA
-`SYSTEMS DEVELOPMENT · EDUCATIONAL ROBOTICS · AI AUTOMATION`
+*Building intelligent systems through software development, AI, and robotics.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=3&section=header" width="100%" alt="" />
+---
 
-</div>
+## About Me
 
-## / PROFILE
+I'm a Systems Development student at ETEC, currently pursuing a degree in Artificial Intelligence at FIAP.
 
-Third-year high school student studying Technical Development of Systems at ETEC. My journey in technology began with educational robotics, where I worked with Arduino, sensors, and line-following robots. I’m building a solid foundation through practical projects, with interests in intelligent agents, AI automation, and intelligent solutions.
+My interests include **Artificial Intelligence, intelligent agents, software development, and robotics**. Through my experience with robotics projects, Arduino, and programming, I'm developing my technical skills and exploring how intelligent software can solve real-world problems.
 
-## / STACK
+Currently focused on strengthening my programming fundamentals, exploring AI technologies, and building practical projects.
 
-`C`　`PYTHON`　`SQL`  
-`ARDUINO`　`MICRO:BIT`　`SENSORS`　`LINE-FOLLOWING ROBOTS`  
-`GIT`　`GITHUB`
+My goal is to develop reliable AI-powered systems and eventually contribute to innovative technology projects worldwide.
 
-## / GITHUB ACTIVITY
+---
 
-<div align="center">
+## Connect
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&bg_color=050505&color=E6E6E6&line=FFFFFF&point=FFFFFF&area_color=333333&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" width="100%" alt="Contribution activity graph" />
+<p align="center">
+  <a href="https://github.com/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=dark&title_color=FFFFFF&text_color=BDBDBD&icon_color=FFFFFF&bg_color=050505" width="49%" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&hide_border=true&langs_count=6&theme=dark&title_color=FFFFFF&text_color=BDBDBD&bg_color=050505" width="49%" alt="Most used languages" />
+---
 
-</div>
+## Tech Stack
 
-## / ROBOTICS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,arduino,mysql,git,github,vscode" />
+</p>
 
-Member of the T.E.R.A. Robotics educational robotics team. Hands-on experience with Arduino, sensors, and line-following robots, including participation in robotics events and public demonstrations.
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=github-compact&hide_border=true" />
+</p>
