@@ -27,25 +27,15 @@ I am a third-year high school student and Technical Development Systems student 
 ![Sensors](https://img.shields.io/badge/Sensors-161616?style=flat-square&logoColor=FFFFFF )
 ![Line-following robots](https://img.shields.io/badge/Line--following_robots-161616?style=flat-square&logoColor=FFFFFF )
 
-**Tools**
 
-![Git](https://img.shields.io/badge/Git-161616?style=flat-square&logo=git&logoColor=FFFFFF )
-![GitHub](https://img.shields.io/badge/GitHub-161616?style=flat-square&logo=github&logoColor=FFFFFF )
 
-**Interests**
+Interests
 
 Intelligent agents · AI automation · Intelligent solutions
 
-## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=dark&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&bg_color=0D1117" width="48%" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&hide_border=true&langs_count=6&theme=dark&title_color=FFFFFF&text_color=C9D1D9&bg_color=0D1117" width="48%" alt="Most used languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=C9D1D9&area_color=30363D&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="GitHub contribution activity graph" />
-</p>
+
 
 ## Robotics
 
