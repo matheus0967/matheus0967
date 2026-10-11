@@ -67,6 +67,15 @@ Contribution Activity
 
 
 
+Commit Activity
+
+<p align="center">
+<img src="https://ghchart.rshah.org/SEU-USUARIO" alt="GitHub commits activity chart" />
+</p>
+
+
+
+
 <div align="center">
 
 Always learning. Always building.
