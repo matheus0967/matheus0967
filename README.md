@@ -1,12 +1,7 @@
-<!--
-  COMO USAR:
-  1. Crie um repositório PÚBLICO com o MESMO nome do seu usuário do GitHub.
-  2. Envie este README.md e a pasta "assets" (banner.svg e about.svg) para a RAIZ do repositório.
-  3. O usuário já está preenchido. Falta ajustar apenas o link do LinkedIn e o e-mail.
--->
+
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Matheus Henrique Garcia" width="100%" />
+  <img src="https://br.pinterest.com/pin/1030479958509324597/" alt="Matheus Henrique Garcia" width="100%" />
 </p>
 
 <h1 align="center">Olá 👋, eu sou o Matheus</h1>
@@ -54,17 +49,7 @@ Equipe da E.E. PEI José Gonçalves de Mendonça (Maracaí, SP).
 - Organização da etapa regional da Olimpíada Brasileira de Robótica, em Assis
 - Demonstrações de robótica para crianças, estudantes e o público em geral
 
----
 
-## 🤝 Conecte-se
-
-<p align="center">
-  <a href="https://github.com/matheus0967"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:seu-email@exemplo.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-</p>
 
 ---
 
@@ -90,26 +75,5 @@ Equipe da E.E. PEI José Gonçalves de Mendonça (Maracaí, SP).
 
 ---
 
-## 📈 Gráfico de atividade
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=matheus0967&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=matheus0967&bg_color=FFFFFF&color=000000&line=000000&point=000000&area=true&hide_border=true" />
-    <img alt="Gráfico de contribuições" src="https://github-readme-activity-graph.vercel.app/graph?username=matheus0967&hide_border=true" />
-  </picture>
-</p>
 
----
-
-## 🗂️ Projetos
-
-Os projetos em destaque entram aqui conforme forem concluídos.
-
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| _Em breve_ | | |
-
----
-
-<p align="center"><sub>Aprendendo na prática, um commit por vez.</sub></p>
