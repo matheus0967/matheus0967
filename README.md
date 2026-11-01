@@ -67,9 +67,6 @@
 
 </div>
 
-<h2>Contribution Activity</h2>
-
-
 
 <hr/>
 
