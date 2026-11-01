@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220">
+<rect width="1000" height="220" fill="#050505"/>
+<text x="40" y="90" fill="#ddd" font-family="monospace" font-size="18">CONTRIBUTION ANALYTICS</text>
+<text x="40" y="125" fill="#888" font-family="monospace" font-size="13">Run the GitHub Actions workflow to generate your live activity visualization.</text>
+</svg>
