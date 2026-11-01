@@ -69,15 +69,7 @@
 
 <h2>Contribution Activity</h2>
 
-<div align="center">
 
-  <img
-    src="src/activity.svg"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
-
-</div>
 
 <hr/>
 
